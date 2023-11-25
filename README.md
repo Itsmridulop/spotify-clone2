@@ -1,2 +1,4 @@
 # spotify-clone2
-auther: mridul
+Auther: mridul
+<br>
+This is my 2nd year mini project
