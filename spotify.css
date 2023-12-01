@@ -9,7 +9,14 @@ body{
 }
 
 .searchBox{
-    border: 2px solid white;
+    border: 2px solid #ffffff00;
+    position: fixed;
+    height: 11rem;
+    width: 18rem;
+    margin: 1rem 0rem;
+    background: #4e4a4a;
+    border-radius: 1rem;
+    display: none;
 }
 
 .something {
