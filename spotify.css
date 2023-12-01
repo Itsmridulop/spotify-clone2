@@ -8,6 +8,10 @@ body{
     background-color: black;
 }
 
+.searchBox{
+    border: 2px solid white;
+}
+
 .something {
     position: relative;
     width: 90vw;
